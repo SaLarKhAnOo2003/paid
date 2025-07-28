@@ -1,0 +1,2 @@
+def paid_method():
+    print("Paid method activated")
